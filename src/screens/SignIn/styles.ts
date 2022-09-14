@@ -19,7 +19,6 @@ export const Label = styled.Text`
 `;
 
 export const TextInputStyles = styled.TextInput`
-    /* background: ${({ theme }) => theme.colors.grey}; */
     border: none;
     width: 320px;
     height: 48px;
